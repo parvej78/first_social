@@ -1,0 +1,97 @@
+  .two {
+      background-color:#a4ecec ;
+      height: 10000px
+  }
+  
+  .media {
+      width: 450px;
+      height: 300px;
+      margin-left: 800px;
+      margin-top: -150px;
+
+  }
+
+  .write {
+      display: inherit;
+      margin-top: 49px;
+  }
+
+  .desc {
+      font-size: 20px;
+  }
+
+  .smm {
+      font-style: oblique;
+      font-size: 20p
+  }
+
+  .head {
+      text-decoration: underline;
+
+  }
+
+  /* second div started now  */
+
+  .all {
+      border: 3px solid none;
+      display: flex;
+      margin: 17px;
+      margin-left: 42px;
+      background-color:  #82c9b1
+      ;
+      width: auto;
+      height: auto;
+
+  }
+
+  .socialapp {
+      text-align: center;
+      font-size: 40px;
+      font-style: Sans-serif;
+
+  }
+
+  /* Third div are started  */
+
+  .instadiv,
+  .facediv,
+  .whatdiv {
+      border: 2px solid none;
+      width: 250px;
+      text-align: center;
+      margin: 20px;
+      border-collapse: collapse;
+      padding: 20px;
+  }
+
+  .instabu {
+      margin: 10px;
+      background-color: #c36767;
+      border: solid;
+  }
+
+  .facebu {
+      margin: 10px;
+
+  }
+
+  .whatbu {
+      margin: 0px;
+  }
+
+  .desinsta {
+      border: 2px solid none;
+      width: 900px;
+      height: 500px;
+  }
+
+  .desface,
+  .deswhat {
+      border: 2px solid none;
+      width: 900px;
+      height: 250px;
+  }
+
+  .socalbackall {
+      background-color: #82c9b1
+  }
